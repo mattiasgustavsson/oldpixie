@@ -6,7 +6,7 @@ By: Mattias Gustavsson
 For more information, tutorials, documentation and to download
 example source code for games done with Pixie, please visit:
 
-	www.pixieuniversity.com
+	www.---------------.com
 
 To compile the source code, you need to have DirectX SDK installed.
 
